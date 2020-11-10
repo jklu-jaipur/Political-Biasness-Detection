@@ -1,2 +1,2 @@
 # Political-Biasness-detection
-This small ML project is to build a model around biasness detection for predicting originality of articles published regarding an event.
+Our ML model calculates the biasness of a political article based on linguistic features and classify them as biased towards the ruling goverment, bias towards the oppostion, or neutral. 
